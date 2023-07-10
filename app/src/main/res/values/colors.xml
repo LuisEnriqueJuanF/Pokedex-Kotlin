@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="transparent">#00FFFFFF</color>
+
+    //Pokemon Id
+    <color name="pokemon_id">#BE252525</color>
+
+    //Pokemon Types
+    <color name="pokemon_type_normal">#9da0aa</color>
+    <color name="pokemon_type_fire">#fd7d24</color>
+    <color name="pokemon_type_water">#4a90da</color>
+    <color name="pokemon_type_grass">#62b957</color>
+    <color name="pokemon_type_electric">#eed535</color>
+    <color name="pokemon_type_ice">#61cec0</color>
+    <color name="pokemon_type_fighting">#d04164</color>
+    <color name="pokemon_type_poison">#a552cc</color>
+    <color name="pokemon_type_ground">#dd7748</color>
+    <color name="pokemon_type_flying">#748fc9</color>
+    <color name="pokemon_type_psychic">#ea5d60</color>
+    <color name="pokemon_type_bug">#8cb230</color>
+    <color name="pokemon_type_rock">#baab82</color>
+    <color name="pokemon_type_ghost">#556aae</color>
+    <color name="pokemon_type_dark">#58575f</color>
+    <color name="pokemon_type_dragon">#0f6ac0</color>
+    <color name="pokemon_type_steel">#417d9a</color>
+    <color name="pokemon_type_fairy">#ed6ec7</color>
+
+    //Pokemon Background
+    <color name="pokemon_background_normal">#b1b5bf</color>
+    <color name="pokemon_background_fire">#ffa756</color>
+    <color name="pokemon_background_water">#58abf6</color>
+    <color name="pokemon_background_grass">#8abd89</color>
+    <color name="pokemon_background_electric">#f2cb55</color>
+    <color name="pokemon_background_ice">#7DF1E2</color>
+    <color name="pokemon_background_fighting">#eb4971</color>
+    <color name="pokemon_background_poison">#9f6e97</color>
+    <color name="pokemon_background_ground">#f78551</color>
+    <color name="pokemon_background_flying">#98B5F5</color>
+    <color name="pokemon_background_psychic">#FF7D80</color>
+    <color name="pokemon_background_bug">#8bd674</color>
+    <color name="pokemon_background_rock">#E8D9AF</color>
+    <color name="pokemon_background_ghost">#869CE3</color>
+    <color name="pokemon_background_dark">#8A8990</color>
+    <color name="pokemon_background_dragon">#2B8AE4</color>
+    <color name="pokemon_background_steel">#6DB2D3</color>
+    <color name="pokemon_background_fairy">#eba8c3</color>
+
+
+</resources>

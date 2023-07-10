@@ -1,0 +1,18 @@
+<resources>
+    <!--Pokedex-->
+    <string name="app_name">POKÉDEX</string>
+
+    <string name="pokedex_title">Pokédex</string>
+    <string name="pokedex_subtitle">Search for Pokémon by name or using the National Pokédex number.</string>
+
+    <string name="pokedex_data_title">Pokédex Data</string>
+    <string name="pokedex_data_species">Species:</string>
+    <string name="pokedex_data_baseExperience">Base experience:</string>
+    <string name="pokedex_data_height">Height:</string>
+    <string name="pokedex_data_weight">Weight:</string>
+
+    <string name="pokemon_description_title">Pokémon Description</string>
+
+    <string name="pokemon_search_hint">What Pokémon are you looking for?</string>
+
+</resources>
